@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tomcatProjectProperties>
+    <rootDir>/perfservice</rootDir>
+    <exportSource>false</exportSource>
+    <reloadable>true</reloadable>
+    <redirectLogger>false</redirectLogger>
+    <updateXml>true</updateXml>
+    <warLocation>G:\Temp\PerfService.war</warLocation>
+    <extraInfo></extraInfo>
+    <webPath>/PerfService</webPath>
+    <webClassPathEntries>
+    </webClassPathEntries>
+</tomcatProjectProperties>
